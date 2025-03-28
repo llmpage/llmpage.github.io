@@ -21,9 +21,10 @@ description: "TShop is a online store for users. We provide quality products at 
 # github_username: username
 minimal_mistakes_skin: mint
 search: true
+logo: "/assets/images/shop-logo.jpeg"
 
-google-site-verification: "esaOSHnSWn9voFFKn4BoQZl5uVuELSVWxM62dhFS6P4"
-bing-site-verification: "FDCF20F2F2CF041A5896891B06769F8D"
+google_site_verification: "esaOSHnSWn9voFFKn4BoQZl5uVuELSVWxM62dhFS6P4"
+bing_site_verification: "FDCF20F2F2CF041A5896891B06769F8D"
 
 # Build settings
 markdown: kramdown
