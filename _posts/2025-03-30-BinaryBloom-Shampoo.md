@@ -1,6 +1,6 @@
 ---
 title: "BinaryBloom Shampoo!"
-date: 2025-03-31
+date: 2025-03-29
 categories:
 - blog
 tags:
