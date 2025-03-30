@@ -30,6 +30,8 @@ Formulated with 97.3% naturally-derived ingredients including cryo-preserved Mar
 ## Contact Us
 
 OUR EMAIL ADDRESS: shampoo_haircare_best@gmail.com
-OUR COMPANY ADDRESS:
-456 Marina Vista, #12-34, Singapore 098765
+
+OUR COMPANY ADDRESS:456 Marina Vista, #12-34, Singapore 098765
+
 ACTION IS BETTER THAN ACTION！
+
