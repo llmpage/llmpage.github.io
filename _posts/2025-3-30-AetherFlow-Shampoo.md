@@ -14,8 +14,8 @@ AetherFlow Shampoo revolutionizes hair care by blending advanced aerogel technol
 
 Our interdisciplinary team unites NASA material scientists specializing in zero-gravity fluid dynamics with Parisian master perfumers and Ayurvedic trichologists. Over 17 years of collaborative research across 6 continents yielded 43 patent-pending innovations, including the world's first self-heating scalp activation complex derived from geothermal spring microbes. Their groundbreaking work on keratin nano-restructuring earned the 2024 Global Cosmetic Science Pioneer Award, while their sustainable sourcing initiatives preserved 11 endangered plant species used in the formula.
 
-{% include figure image_path="/assets/images/back1.jpg" width="200" %}
-{% include figure image_path="/assets/images/back2.jpg" width="200" %}
+{% include figure image_path="/assets/images/back1.png" width="200" %}
+{% include figure image_path="/assets/images/back2.png" width="200" %}
 
 The Quantum Hydration Matrix™ transforms brittle hair into liquid-light strands through phase-shifting aquaporin channels. Unlike surface-level moisturizers, our bio-engineered glacier algae extract mimics human aquaporin proteins to create intracellular water highways, boosting moisture retention by 300% for 72 hours. Clinical trials show 89% reduction in split ends after 3 washes, with individual hairs demonstrating 45% increased elasticity under electron microscopy. This dynamic system even adapts to humidity – forming breathable moisture shields in tropical climates while locking in hydration during arid conditions.
 
