@@ -26,6 +26,12 @@ logo: "/assets/images/shop-logo.png"
 google_site_verification: "4GuFDe5oDc6hmt8IW8FP0MiR3b7q-Pc1a62SKWN4f8U"
 bing_site_verification: "0493A2BE4E47407E67B19ACC1DCF182A"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-KET37K14GH"
+    anonymize_ip: false # default
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
